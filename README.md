@@ -1,10 +1,16 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5480ce69-10af-4e73-b31a-f5298da87eda" width="500" height="250" >
+</p>
 
-# Mini-Massive  
 
-A lightweight, open-source framework for **agent-based simulations**.  
-Inspired by Weta Digital’s *Massive* (used in The Lord of the Rings), Mini-Massive lets you create swarms, crowds, traffic flows, and cinematic cavalry charges with rule-driven agents, reproducible runs, and lightweight visualization.  
+<h1 align="center">Mini-Massive</h1>
 
-Designed to scale from hundreds to thousands of autonomous agents, Mini-Massive reimagines the power of *Massive* for open source.  
+<p align="center">
+A lightweight, open-source framework for agent-based simulations.  <br>
+Inspired by Weta Digital’s Massive - used in The Lord of the Rings <br>
+  <br>
+Mini-Massive lets you create swarms, crowds, traffic flows, and cinematic cavalry charges with rule-driven agents, reproducible runs, and lightweight visualization. Designed to scale from hundreds to thousands of autonomous agents, Mini-Massive reimagines the power of *Massive* for open source.  
+</p>
 
 ---
 
@@ -14,6 +20,15 @@ Designed to scale from hundreds to thousands of autonomous agents, Mini-Massive 
 - **Reproducible runs** — deterministic seeding for consistent experiments.  
 - **Lightweight visualization** — export animations, JSON logs, or live 2D/3D views.  
 - **Flexible scenarios** — model crowds, traffic, swarms, herds, or battles.  
+
+
+---
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/32b67faa-caa2-4138-9a49-fb3f3f5287b7" width="500" height="250" >
+</p>
+
 
 ---
 
