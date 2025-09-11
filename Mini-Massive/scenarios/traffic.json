@@ -1,0 +1,9 @@
+{
+  "mode": "traffic",
+  "width": 260,
+  "height": 120,
+  "agents": 250,
+  "dt": 0.05,
+  "agent_kind": "car",
+  "waypoints": [[10, 60], [120, 60], [240, 60]]
+}

@@ -1,0 +1,8 @@
+{
+  "mode": "flock",
+  "width": 220,
+  "height": 140,
+  "agents": 400,
+  "dt": 0.05,
+  "agent_kind": "bird"
+}

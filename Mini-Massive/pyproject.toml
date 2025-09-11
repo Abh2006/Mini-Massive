@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mini-massive"
+version = "0.1.0"
+description = "Mini-Massive: an open-source, agent-based simulation framework."
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.26", "matplotlib>=3.8"]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[project.scripts]
+mini-massive = "minimassive.cli:main"
