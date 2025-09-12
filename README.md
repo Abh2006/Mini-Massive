@@ -32,6 +32,13 @@ Mini-Massive lets you create swarms, crowds, traffic flows, and cinematic cavalr
 
 ---
 
+<p align="center">
+  <img src="https://github.com/ginesthoii/Mini-Massive/blob/main/flock.gif" alt="Terminal GIF" height="320" width="320"/>
+</p>
+
+
+---
+
 ## Installation  
 
 ```bash
